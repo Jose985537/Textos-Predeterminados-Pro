@@ -61,4 +61,4 @@ Visita nuestra [Wiki](https://github.com/tu-usuario/textos-predeterminados/wiki)
 
 ## 📄 Licencia
 
-Distribuido bajo licencia MIT. Ver [LICENSE](LICENSE) para más detalles.
+Distribuido bajo licencia MIT. Ver [LICENSE](LICENSE) para más detalles.j_ Gabriel 
